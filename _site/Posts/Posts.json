@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2022-01-03-how-to-start-video-editing/",
+    "title": "HOW TO START VIDEO EDITING?",
+    "description": "I will be talking about Adobe After Effects and the packages you will need to excute smooth transitions. These transitions wil help you make edits similar to the one on my Instagram account @littlewhiteorchids and velocity edits like the ones on Tik Tok.",
+    "author": [
+      {
+        "name": "Allison Wong",
+        "url": {}
+      }
+    ],
+    "date": "2022-01-03",
+    "categories": [],
+    "contents": "\r\n\r\nI use Adobe After Effects to create my transitions, I currently use/have After Effects 2020.\r\nTo make Smooth transitions I recommend getting the Sapphire Plug-in. This way you can get over 250 effects while creating smooth transitions. One effect I use in every edit is S_BlurMoCurve; S_BlurMoCurve can help you create better zoom transitions by adjusting the Z Dist.\r\nI also recommend gettng: MBLooks and BCC Plug-ins.\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-01-03-how-to-start-video-editing/Instapage.png",
+    "last_modified": "2022-01-03T20:06:25-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2022-01-03-smooth-clipsvelocity-on-clips/",
+    "title": "SMOOTH CLIPS/VELOCITY ON CLIPS",
+    "description": "This is how I add velocity/smoothen out my clips!",
+    "author": [
+      {
+        "name": "Allison Wong",
+        "url": {}
+      }
+    ],
+    "date": "2022-01-03",
+    "categories": [],
+    "contents": "\r\nSTEP ONE  When you load in your clip, you are going to want to locate the icon next to the fx icon and go below it and click it twice. When you first click it you should see a copy of the icon above; after your second click, you should see a different icon.\r\nSTEP TWO You are going slect your clip them, right click on your mouse and this should pop up: \r\nNow that you see this you should press ‘Time’. When you press time you well see many options and you will want to pick Freeze on Last Frame. It should look like this: \r\nSTEP THREE After you do the previous step, you will see two keyframes on the bottom of your clip. You should move the last keyframe to the very end of the clip and press F9, this will allow you to use easy speed on the clip. \r\nSTEP FOUR Now that you have your keyframes, you will want to create a graph, so you will go to the icons above the icons with fx and you are going to press the last one on your right. When you open the graph, select your keyframes and use this graph: \r\nAnd that’s it!\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-01-03-smooth-clipsvelocity-on-clips/right click.png",
+    "last_modified": "2022-01-03T23:01:20-05:00",
+    "input_file": {}
+  }
+]

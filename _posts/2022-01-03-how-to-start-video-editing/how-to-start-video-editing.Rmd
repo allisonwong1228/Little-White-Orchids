@@ -1,0 +1,30 @@
+---
+title: "HOW TO START VIDEO EDITING?"
+description: |
+  I will be talking about Adobe After Effects and the packages you will need to excute smooth transitions. These transitions wil help you make edits similar to the one on my Instagram account @littlewhiteorchids and velocity edits like the ones on Tik Tok.
+author:
+  - name: Allison Wong
+date: 2022-01-03
+preview: Instapage.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](Instapage.png){width=200}
+ 
+  I use Adobe After Effects to create my transitions, I currently use/have After Effects 2020. 
+
+  To make Smooth transitions I recommend getting the Sapphire Plug-in. This way you can get over 250 effects while creating smooth transitions. One effect I use in every edit is S_BlurMoCurve; S_BlurMoCurve can help you create better zoom transitions by adjusting the Z Dist.
+  
+  I also recommend gettng: MBLooks and BCC Plug-ins.
+  
+ 
+  
+
+

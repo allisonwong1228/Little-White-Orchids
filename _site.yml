@@ -1,0 +1,16 @@
+name: "Little White Orchids"
+title: "Little White Orchids"
+description: |
+  My Website
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Posts"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - icon: fa fa-instagram
+      href: https://www.instagram.com/littlewhiteorchids/
+    - icon: fa fa-youtube
+      href: https://www.youtube.com/channel/UCnZ2TPbJiroqzaffT8cYoVw
+output: distill::distill_article
