@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-01-06-my-favorite-affirmations/",
+    "title": "MY FAVORITE AFFIRMATIONS",
+    "description": "Little things can go so far, so I complied a few of my favorite affirmations that could help improve your day!",
+    "author": [
+      {
+        "name": "Allison Wong",
+        "url": {}
+      }
+    ],
+    "date": "2022-01-06",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-01-06-my-favorite-affirmations/1.png",
+    "last_modified": "2022-01-06T00:53:25-05:00",
+    "input_file": "my-favorite-affirmations.knit.md"
+  },
+  {
     "path": "posts/2022-01-03-how-to-start-video-editing/",
     "title": "HOW TO START VIDEO EDITING?",
     "description": "I will be talking about Adobe After Effects and the packages you will need to excute smooth transitions. These transitions wil help you make edits similar to the one on my Instagram account @littlewhiteorchids and velocity edits like the ones on Tik Tok.",
