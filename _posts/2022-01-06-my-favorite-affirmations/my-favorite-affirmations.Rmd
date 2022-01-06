@@ -5,6 +5,7 @@ description: |
 author:
   - name: Allison Wong
 date: 2022-01-06
+preview: 1.png
 output:
   distill::distill_article:
     self_contained: false
